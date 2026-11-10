@@ -1,0 +1,6 @@
+{
+  "name": "KOMPUTERKU — Digital Learning Center",
+  "description": "Platform pembelajaran interaktif materi Sistem Komputer untuk siswa SMA kelas 10 Informatika, mencakup Hardware, Software, Brainware, Siklus IPOS, galeri komponen, dan kuis evaluasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
