@@ -24,7 +24,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ onNavigate }) => {
       color: 'from-[#101B32] to-cyan-800',
     },
     {
-      name: 'DIARA ZEBADIA',
+      name: 'DIARA ZEBADIA BELVA CALESTINE',
       initials: 'DI',
       color: 'from-[#101B32] to-indigo-900',
     },
