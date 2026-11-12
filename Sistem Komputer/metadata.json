@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Komputer SMA Kelas 10",
+  "description": "Media pembelajaran interaktif materi Sistem Komputer kelas 10 SMA: komponen hardware, software, brainware, alur IPOS, rangkuman, dan kuis interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
