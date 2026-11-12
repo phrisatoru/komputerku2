@@ -15,17 +15,17 @@ export const AboutView: React.FC<AboutViewProps> = ({ onNavigate }) => {
     },
     {
       name: 'SASHENKA KEANDRI IKHWAN',
-      initials: 'KA',
+      initials: 'SK',
       color: 'from-[#101B32] to-slate-800',
     },
     {
       name: 'RISKA SIFANA',
-      initials: 'RI',
+      initials: 'RS',
       color: 'from-[#101B32] to-cyan-800',
     },
     {
       name: 'DIARA ZEBADIA BELVA CALESTINE',
-      initials: 'DI',
+      initials: 'DZ',
       color: 'from-[#101B32] to-indigo-900',
     },
   ];
